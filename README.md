@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kuba</h1>
-<h3 align="center">I am an aspiring frontend develope</h3>
+<h3 align="center">I am an aspiring frontend developer</h3>
 
 - 🌱 I’m currently learning **React, TypeScript**
 
